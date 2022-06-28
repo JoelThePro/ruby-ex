@@ -261,6 +261,7 @@ pre {
   <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">IMPORTANT UPDATE</li>
 
 </ol>
+<img src="https://i.kym-cdn.com/entries/icons/original/000/026/008/Screen_Shot_2018-04-25_at_12.24.22_PM.png" alt="E">
 <p>After you save your webhook, if you refresh your settings page you can see the status of the ping that Github sent to OpenShift to verify it can reach the server.</p>
 <p>Note: adding a webhook requires your OpenShift server to be reachable from GitHub.</p>
 
