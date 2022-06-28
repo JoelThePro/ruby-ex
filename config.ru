@@ -32,7 +32,7 @@ map '/' do
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Welcome to OpenShift</title>
+  <title>E</title>
 
 
 <style>
@@ -239,17 +239,17 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Welcome to E</h1>
           </hgroup>
 
 
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>Deploying code changes</h2>
+              <h2>How to "E"</h2>
                 <p>
-                  The source code for this application is available to be forked from the <a href="https://www.github.com/sclorg/ruby-ex">OpenShift GitHub repository</a>.
-                  You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
+                  You simply E stupid! 
+		  E
                 </p>
 
 <ol>
@@ -258,6 +258,8 @@ pre {
   <li>From the view for your Build click on the button to copy your GitHub webhook</li>
   <li>Navigate to your repository on GitHub and click on repository settings &gt; webhooks</li>
   <li>Paste your webhook URL provided by OpenShift &mdash; that's it!</li>
+  <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">IMPORTANT UPDATE</li>
+
 </ol>
 <p>After you save your webhook, if you refresh your settings page you can see the status of the ping that Github sent to OpenShift to verify it can reach the server.</p>
 <p>Note: adding a webhook requires your OpenShift server to be reachable from GitHub.</p>
